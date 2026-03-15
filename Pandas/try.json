@@ -1,0 +1,17 @@
+{
+    "name": [
+        "Satish"
+    ],
+    "age": [
+        17
+    ],
+    "is_student": [
+        true
+    ],
+    "skill": [
+        "CSS"
+    ],
+    "address": [
+        "Mughalsarai"
+    ]
+}
